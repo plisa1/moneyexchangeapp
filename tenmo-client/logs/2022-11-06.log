@@ -1,0 +1,24 @@
+2022-11-06T09:44:07.0726165 null
+2022-11-06T09:59:33.8745673 null
+2022-11-06T10:10:12.4492242 null
+2022-11-06T11:07:04.9686153 500 : [{"timestamp":"2022-11-06T16:07:04.937+00:00","status":500,"error":"Internal Server Error","message":"PreparedStatementCallback; SQL [INSERT INTO transfer (transfer_type_id, transfer_status_id, account... (654 bytes)]
+2022-11-06T11:13:24.4782853 500 : [{"timestamp":"2022-11-06T16:13:24.444+00:00","status":500,"error":"Internal Server Error","message":"PreparedStatementCallback; SQL [INSERT INTO transfer (transfer_type_id, transfer_status_id, account... (654 bytes)]
+2022-11-06T11:14:54.9540075 500 : [{"timestamp":"2022-11-06T16:14:54.932+00:00","status":500,"error":"Internal Server Error","message":"PreparedStatementCallback; SQL [INSERT INTO transfer (transfer_type_id, transfer_status_id, account... (654 bytes)]
+2022-11-06T11:20:52.3969154 500 : [{"timestamp":"2022-11-06T16:20:52.383+00:00","status":500,"error":"Internal Server Error","message":"PreparedStatementCallback; SQL [INSERT INTO transfer (transfer_type_id, transfer_status_id, account... (654 bytes)]
+2022-11-06T11:21:08.8494155 500 : [{"timestamp":"2022-11-06T16:21:08.846+00:00","status":500,"error":"Internal Server Error","message":"PreparedStatementCallback; SQL [INSERT INTO transfer (transfer_type_id, transfer_status_id, account... (654 bytes)]
+2022-11-06T17:03:58.3833822 I/O error on POST request for "http://localhost:8080/login": Connection refused: connect; nested exception is java.net.ConnectException: Connection refused: connect
+2022-11-06T17:06:06.4451533 I/O error on POST request for "http://localhost:8080/register": Connection refused: connect; nested exception is java.net.ConnectException: Connection refused: connect
+2022-11-06T17:15:27.8824717 404 : 
+2022-11-06T17:57:10.2064073 500 : [{"timestamp":"2022-11-06T22:57:10.193+00:00","status":500,"error":"Internal Server Error","message":"PreparedStatementCallback; SQL [INSERT INTO transfer (transfer_type_id, transfer_status_id, account... (654 bytes)]
+2022-11-06T17:57:26.3641779 404 : 
+2022-11-06T17:58:46.3452743 500 : [{"timestamp":"2022-11-06T22:58:46.326+00:00","status":500,"error":"Internal Server Error","message":"PreparedStatementCallback; SQL [INSERT INTO transfer (transfer_type_id, transfer_status_id, account... (654 bytes)]
+2022-11-06T17:58:48.9309409 404 : 
+2022-11-06T17:58:55.1812997 404 : 
+2022-11-06T17:59:06.1547732 500 : [{"timestamp":"2022-11-06T22:59:06.153+00:00","status":500,"error":"Internal Server Error","message":"PreparedStatementCallback; SQL [INSERT INTO transfer (transfer_type_id, transfer_status_id, account... (654 bytes)]
+2022-11-06T18:00:30.732335 500 : [{"timestamp":"2022-11-06T23:00:30.717+00:00","status":500,"error":"Internal Server Error","message":"PreparedStatementCallback; SQL [INSERT INTO transfer (transfer_type_id, transfer_status_id, account... (654 bytes)]
+2022-11-06T18:11:55.7791372 404 : 
+2022-11-06T18:11:58.6921745 404 : 
+2022-11-06T18:21:44.2418041 404 : 
+2022-11-06T18:28:07.428483 500 : [{"timestamp":"2022-11-06T23:28:07.407+00:00","status":500,"error":"Internal Server Error","message":"PreparedStatementCallback; SQL [INSERT INTO transfer (transfer_type_id, transfer_status_id, account... (654 bytes)]
+2022-11-06T18:28:23.1353115 404 : 
+2022-11-06T18:28:29.9560083 500 : [{"timestamp":"2022-11-06T23:28:29.954+00:00","status":500,"error":"Internal Server Error","message":"PreparedStatementCallback; SQL [INSERT INTO transfer (transfer_type_id, transfer_status_id, account... (654 bytes)]
